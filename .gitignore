@@ -1,0 +1,8 @@
+build/
+dist/
+device_jwts.json
+logo_with_background.png
+main.spec
+mqtt_session.py
+rtsp_config.json
+testing.py
