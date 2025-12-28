@@ -47,3 +47,6 @@ The application utilizes the built-in **RTSP** (Real Time Streaming Protocol) pr
 
 ## Contributions
 I am open to contributions! If you have ideas for new features, bug fixes, or performance improvements, feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
